@@ -24,3 +24,9 @@ Simple Job-Oriented Website that depicts all my details and skills I possess wit
 
 ### Chatterbox
 Simple Chatting Web Application that sends message to all the people connected with the Application.
+
+## Important Note
+Any user using this Repo should include this Git link and Contributor's name in their work.
+
+## Contributors
+K. N. Dheeraj (kndheeraj0@gmail.com)
